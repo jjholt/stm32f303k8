@@ -1,5 +1,5 @@
 [package]
-authors = [{{authors}}]
+authors = ["{{authors}}"]
 edition = "2018"
 readme = "README.md"
 name = "{{project-name}}"
