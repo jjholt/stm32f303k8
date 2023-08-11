@@ -11,5 +11,5 @@ cargo install cargo-generate
 
 Then copy this template:
 ```
-cargo generate --git jjholt/template-stm32f303k8
+cargo generate jjholt/stm32f303k8
 ```
